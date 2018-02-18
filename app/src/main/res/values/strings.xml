@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">Te miro y te compro</string>
+    <string name="activity_register_card_label">Registrar método de pago</string>
+    <string name="activity_payment_list_label">Métodos de pago</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="name_hint">Nombre</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button_hint">Iniciar sesión</string>
+    <string name="no_account_yet_label">¿No tienes cuenta aún? Crea una</string>
+    <string name="create_account_label">Crear cuenta</string>
+    <string name="already_member_label">¿Ya eres usuario? Iniciar sesión</string>
+    <string name="logo_content_description">Logo de aplicación</string>
+    <string name="name_card">Nombre de la tarjeta</string>
+    <string name="number_card">Número de la tarjeta</string>
+    <string name="expiry_date_card">Vence</string>
+    <string name="ccv_card">CCV</string>
+    <string name="default_card">XXXX XXXX XXXX XXXX</string>
+    <string name="save_card">Guardar</string>
+    <string name="welcome_label">¡Bienvenido!</string>
+    <string name="welcome_second_label">Ahora comprar es fácil</string>
+    <string name="drawer_item_home">Inicio</string>
+    <string name="drawer_item_login">Entrar</string>
+    <string name="drawer_item_logout">Salir</string>
+    <string name="drawer_item_help">Ayuda</string>
+    <string name="drawer_item_payment">Métodos de pago</string>
+    <string name="form_required_field">Campo requerido</string>
 </resources>
